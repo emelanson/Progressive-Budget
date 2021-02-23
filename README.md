@@ -19,7 +19,8 @@ Progressive Budget is an app demonstrating service worker and indexedDB function
 
 ## Usage
 
-The site can either be downloaded and ran locally via ```node server.js```.
+The site can either be downloaded and ran locally via ```node server.js``` or accessed at the following heroku link:
+https://whispering-reaches-55835.herokuapp.com/
 
 
 
